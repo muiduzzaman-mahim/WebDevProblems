@@ -1,2 +1,1 @@
-# WebDevProblems
-WebDevProblems
+# Web Development Problems Solutions
